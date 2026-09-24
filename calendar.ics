@@ -4882,10 +4882,11 @@ DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 END:VEVENT
 BEGIN:VEVENT
-UID:20966cc02ccce8be37372365644bd96f@tsm-water-polo.cdrodriguez.github.io
-SUMMARY:YOUTH @ Ventura League & GIRLS HS Practice
-DTSTART;TZID=America/Los_Angeles:20260926T100000
-DTEND;TZID=America/Los_Angeles:20260926T120000
+UID:f122caccc2cc889440439ddccf4c989d@tsm-water-polo.cdrodriguez.github.io
+SUMMARY:YOUTH @ Ventura League
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+DESCRIPTION:Tourney Schedule: https://docs.google.com/spreadsheets/d/1P9w2bywMCoiBG4O2khu0P3iPUBYAK4E8J7QlU2FX208/edit?gid=719540963#gid=719540963
 END:VEVENT
 BEGIN:VEVENT
 UID:5d57e4e176b3ae24b5ffe8264c0ae47e@tsm-water-polo.cdrodriguez.github.io
