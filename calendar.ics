@@ -4946,6 +4946,7 @@ UID:9ce45faa7df7f602e1e0614dc4e1db2e@tsm-water-polo.cdrodriguez.github.io
 SUMMARY:YOUTH @ Ventura League
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
+DESCRIPTION:Tourney Schedule: https://docs.google.com/spreadsheets/d/1P9w2bywMCoiBG4O2khu0P3iPUBYAK4E8J7QlU2FX208/edit?gid=719540963#gid=719540963
 END:VEVENT
 BEGIN:VEVENT
 UID:f8a2f5195575da88a395791ec6edc29e@tsm-water-polo.cdrodriguez.github.io
@@ -5018,6 +5019,7 @@ UID:2c208bdc639c028eb98a8927bdc42959@tsm-water-polo.cdrodriguez.github.io
 SUMMARY:YOUTH @ Ventura League
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
+DESCRIPTION:Tourney Schedule: https://docs.google.com/spreadsheets/d/1P9w2bywMCoiBG4O2khu0P3iPUBYAK4E8J7QlU2FX208/edit?gid=719540963#gid=719540963
 END:VEVENT
 BEGIN:VEVENT
 UID:eff78919ec97c363167fd4566df06f37@tsm-water-polo.cdrodriguez.github.io
