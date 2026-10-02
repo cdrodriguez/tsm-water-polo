@@ -4882,11 +4882,10 @@ DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 END:VEVENT
 BEGIN:VEVENT
-UID:f122caccc2cc889440439ddccf4c989d@tsm-water-polo.cdrodriguez.github.io
-SUMMARY:YOUTH @ Ventura League
-DTSTART;VALUE=DATE:20260926
-DTEND;VALUE=DATE:20260927
-DESCRIPTION:Tourney Schedule: https://docs.google.com/spreadsheets/d/1P9w2bywMCoiBG4O2khu0P3iPUBYAK4E8J7QlU2FX208/edit?gid=719540963#gid=719540963
+UID:20966cc02ccce8be37372365644bd96f@tsm-water-polo.cdrodriguez.github.io
+SUMMARY:YOUTH @ Ventura League & GIRLS HS Practice
+DTSTART;TZID=America/Los_Angeles:20260926T100000
+DTEND;TZID=America/Los_Angeles:20260926T120000
 END:VEVENT
 BEGIN:VEVENT
 UID:a8690f2b81997cec214af346fa9ea901@tsm-water-polo.cdrodriguez.github.io
@@ -4955,11 +4954,10 @@ DTSTART;TZID=America/Los_Angeles:20261015T173000
 DTEND;TZID=America/Los_Angeles:20261015T193000
 END:VEVENT
 BEGIN:VEVENT
-UID:9ce45faa7df7f602e1e0614dc4e1db2e@tsm-water-polo.cdrodriguez.github.io
-SUMMARY:YOUTH @ Ventura League
-DTSTART;VALUE=DATE:20261017
-DTEND;VALUE=DATE:20261018
-DESCRIPTION:Tourney Schedule: https://docs.google.com/spreadsheets/d/1P9w2bywMCoiBG4O2khu0P3iPUBYAK4E8J7QlU2FX208/edit?gid=719540963#gid=719540963
+UID:ce0ba7393be450f0cafecbb7823f0403@tsm-water-polo.cdrodriguez.github.io
+SUMMARY:YOUTH @ Ventura League & GIRLS HS Practice
+DTSTART;TZID=America/Los_Angeles:20261017T100000
+DTEND;TZID=America/Los_Angeles:20261017T120000
 END:VEVENT
 BEGIN:VEVENT
 UID:f8a2f5195575da88a395791ec6edc29e@tsm-water-polo.cdrodriguez.github.io
@@ -5028,11 +5026,10 @@ DTSTART;TZID=America/Los_Angeles:20261112T173000
 DTEND;TZID=America/Los_Angeles:20261112T193000
 END:VEVENT
 BEGIN:VEVENT
-UID:2c208bdc639c028eb98a8927bdc42959@tsm-water-polo.cdrodriguez.github.io
-SUMMARY:YOUTH @ Ventura League
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-DESCRIPTION:Tourney Schedule: https://docs.google.com/spreadsheets/d/1P9w2bywMCoiBG4O2khu0P3iPUBYAK4E8J7QlU2FX208/edit?gid=719540963#gid=719540963
+UID:c4955fcfa291e8136a2751ae73b9f4ec@tsm-water-polo.cdrodriguez.github.io
+SUMMARY:YOUTH @ Ventura League & GIRLS HS Practice
+DTSTART;TZID=America/Los_Angeles:20261114T100000
+DTEND;TZID=America/Los_Angeles:20261114T120000
 END:VEVENT
 BEGIN:VEVENT
 UID:eff78919ec97c363167fd4566df06f37@tsm-water-polo.cdrodriguez.github.io
